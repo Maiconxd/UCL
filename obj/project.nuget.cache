@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+80nipxD1hM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mayck\\Documents\\GitHub\\UCL\\AppIdoso2.0\\AppIdoso2.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mayck\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.304\\microsoft.net.sdk.compilers.toolset.9.0.304.nupkg.sha512",
+    "C:\\Users\\mayck\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.19\\microsoft.windowsdesktop.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\mayck\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.19\\microsoft.netcore.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\mayck\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.19\\microsoft.aspnetcore.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\mayck\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.19\\microsoft.netcore.app.host.win-x64.8.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
